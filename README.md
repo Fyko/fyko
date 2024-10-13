@@ -1,7 +1,6 @@
 # Howdy, I'm Carter! 🤠
-<!-- <img src="https://hits-app.vercel.app/hits?url=https://github.com/carterhimmel&bgLeft=444444&bgRight=575fff&label=views" alt="views"> -->
 
-I'm a software engineer based in Arvada, Colorado! I'm most experienced with [`TypeScript`], but recently I've been enjoying [`Rust`]! I have *some* experience with [`C#`], plenty with [`Go`], and I want to learn [`Elixir`] and [`C++`]!
+I'm a software engineer based in Arvada, Colorado! I'm most experienced with [`TypeScript`] and [`Rust`]! I have *some* experience with [`C#`], plenty with [`Go`], and I want to learn [`Elixir`] and [`C++`]!
 
 ## What I do (for fun)
 I have a strong background in developing with the Discord API and maintain bots for others and myself. My largest bot, [Thoth](https://github.com/Fyko/thoth), is a great English language tool for students and folks who want to search definitions and various types of speech for fun!  
@@ -14,13 +13,7 @@ Often times, a random idea comes to me, or I want to learn a new technology, or 
 
 ## What I do (professionally)
 
-I work at [Truffle], a startup focused on filling the gaps left by Twitch and YouTube, improving live-streaming and content creation for both creators and their viewers.  
-
-Some of my projects at Truffle include:
-- Upgrading [Scylla] to 6.0 and improving our backups system
-- [Scyllax], a Rust-based query framework (but also kinda? an ORM) for Scylla
-- Hypha, a thin gRPC layer between our Scylla cluster and other services, standardizing our data access layer (utilizing Scyllax)
-- Kubernetes cluster maintenance
+more info to come 👀
 
 ## How to reach me
 
