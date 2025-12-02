@@ -1,6 +1,6 @@
 # Howdy, I'm Carter! 🤠
 
-I'm a software engineer based in Arvada, Colorado! I'm most experienced with [`TypeScript`] and [`Rust`]! I have *some* experience with [`C#`], plenty with [`Go`], and I want to learn [`Elixir`] and [`C++`]!
+I'm a software engineer based in Austin, Texas! I'm most experienced with [`TypeScript`] and [`Rust`]! I have *some* experience with [`C#`] and [`Python`], plenty with [`Go`], and I want to learn [`Elixir`] and [`C++`]!
 
 ## What I do (for fun)
 I have a strong background in developing with the Discord API and maintain bots for others and myself. My largest bot, [Thoth](https://github.com/Fyko/thoth), is a great English language tool for students and folks who want to search definitions and various types of speech for fun!  
